@@ -187,22 +187,22 @@ You can use your ORCID iD whenever you’re prompted to do so, give your [truste
 
 ### For authors
 
-- [ ] Pick out key datasets and software your conclusions rely on
-- [ ] Cite data and software just like you would cite a paper
-- [ ] Publish your own data/software and cite that too
-- [ ] Get an ORCID ID!
+- Pick out key datasets and software your conclusions rely on
+- Cite data and software just like you would cite a paper
+- Publish your own data/software and cite that too
+- Get an ORCID ID!
 
 ### For data creators
 
-- [ ] Deposit your data in a stable repository
-- [ ] Get a persistent identifier (DOI) for your data
-- [ ] Include an example citation in your dataset's README file
+- Deposit your data in a stable repository
+- Get a persistent identifier (DOI) for your data
+- Include an example citation in your dataset's README file
 
 ### For software developers
 
-- [ ] Deposit key version snapshots of your software in a stable repository
-- [ ] Get a distinct persistent identifier for each key version
-- [ ] Include an example citation in your software manual
+- Deposit key version snapshots of your software in a stable repository
+- Get a distinct persistent identifier for each key version
+- Include an example citation in your software manual
 
 <!-- ## What to learn next -->
 
