@@ -1,6 +1,6 @@
 # Paul's biweekly meeting notes.
 
-* [19 October 2020](#date-19-October-2020)
+[19 October 2020](#date-19-October-2020)
 
 ### Date: 19 October 2020
 
@@ -35,7 +35,7 @@ This is the first check-in, so it refers to my activities since Sep. 28th.
 
 - Feedback on PRs and overall direction so that I can know that my work is on the right track. This is already in place. 
 
-* [26 October 2020](#date-26-October-2020)
+[26 October 2020](#date-26-October-2020)
 
 ### Date: 26 October 2020
 
@@ -61,6 +61,40 @@ This is the first check-in, so it refers to my activities since Sep. 28th.
 
 - This week, I will be creating issues for chapters that do pass the consistency checklist
 - Next week, I will begin working on developing templates for new chapters/case studies etc
+
+#### Where do you need help from Malvika and Kirstie?
+
+- reviews and feedback
+
+[16 November 2020](#date-16-November-2020)
+
+### Date: 16 November 2020
+
+There hasn't been a check in meeting for two weeks, so this update reflects my activities since the last meeting.
+
+#### Who did you help this week?
+
+- Collaborated with lots of new contributors during book dash. Helped some people raise their first PRs, reviewed new contributions, and answered questions
+
+#### Who helped you this week?
+
+- Discussions with Malvika, Neha & Kirstie all gave very useful direction to my work.
+
+#### What did you achieve?
+
+- Created good first issues to help newcomers have an easy way to get involved
+- Created a revised new chapter template
+- Got started on a case study template
+- Supported other contributors to update book's glossary, and the use of custom styling
+
+#### What did you struggle with?
+
+- Building the book locally on a windows machine is not working for me
+
+#### What would you like to work on next week?
+
+- This week I will finalise the case study templates
+- I will also curate layout issues that can be addressed with custom styling
 
 #### Where do you need help from Malvika and Kirstie?
 
