@@ -6,7 +6,7 @@ Outreach can provide major benefits to both researchers and society, from enhanc
 However, as with all research activities, outreach requires careful planning and resourcing, so that researchers can share a collective responsibility to combat the spread of misinformation and provide the public with an accurate representation of science.
 While outreach activities are diverse in scope, we believe that all high quality outreach is underpinned by a set of shared underlying principles.
 
-```{figure} ../figures/scribria-illustrations/Outreach.jpg
+```{figure} ../figures/outreach.jpg
 ---
 name: outreach-chapter
 width: 500px
