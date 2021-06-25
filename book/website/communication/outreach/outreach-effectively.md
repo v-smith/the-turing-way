@@ -98,7 +98,7 @@ In many cases, researchers often make a quick and dirty figure using the standar
 There is a range of ways to illustrate information visually.
 One idea of how to arrange this is from Scientific American Art Director Jen Christensen {cite}`Christiansen2021viz`.
 
-At one end of the spectrum, you have illustrations that are figurative and just meant to provide a picture of the content under question.
+As Christensen shows, at one end of the spectrum you have illustrations that are figurative and just meant to provide a picture of the content under question.
 As you move towards the abstract, you begin to get illustrations that are warped in ways to illustrate some principle to improve the understanding of the audience but remain illustrations to varying degrees.
 Finally, at the right you reach the full level of abstraction where you find quantitative data shown on a graph, removing any trace of the actual appearance of the object.
 In many cases, technical research (and certainly data science) will fall entirely on the abstract side of things, while a presentation to a different audience may require some movement towards the figurative end of the spectrum to give a concrete understanding of what is being studied.
