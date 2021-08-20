@@ -762,9 +762,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 ## Z--->
 
 (contributors-record-all)=
-
 # All Contributors
-
 
 ✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ Recognises all contributors, not just the ones who push code. ✨
 
