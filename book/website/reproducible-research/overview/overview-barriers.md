@@ -99,7 +99,7 @@ A good example of this bias is the Nobel Prize award which only goes to a small 
 One of the goals of _The Turing Way_ is to draw attention to the misalignment of the tenure and promotion process with collaborative and reproducible data science.
 
 (rr-overview-barriers-infrastructure)=
-## Big data and complex computational infrastructure
+## Big data and Complex computational infrastructure
 
 Big data is conceptualised in different ways by different researchers.
 "Big" data may be complex, come from a variety of data sources, is large in storage volume and/or be streamed at very high temporal resolution.
